@@ -5,6 +5,11 @@
 
 I created this project to teach myself the fundamentals of JavaScript, especially DOM manipulation.
 
+### Instructions
+
+Roll the dice to accumulate 100 points to win the game!
+However, if you roll a "1" your turn is over.
+
 ### Built With
 
 * [JavaScript](https://www.javascript.com/)
