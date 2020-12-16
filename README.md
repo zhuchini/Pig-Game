@@ -3,16 +3,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+I created this project to teach myself the fundamentals of JavaScript, especially DOM manipulation.
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [JavaScript](https://www.javascript.com/)
+* [HTML](https://html.com/)
+* [CSS](https://css-tricks.com/)
 
 
 <!-- CONTRIBUTING -->
@@ -30,17 +27,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Michael Zhu - [@Mickuruh](https://twitter.com/Mickuruh) - zhu.michael@outlook.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
+Project Link: [Pig Game](https://pig-game-woad.vercel.app/)
 
